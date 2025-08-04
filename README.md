@@ -3,6 +3,9 @@
 <h2>Projeto</h2>
 <p>Este projeto é um jogo de adivinhação de números para a trilha de desenvolvimento lógica de programação da Oracle Next Education em parceria com a Alura.</p>
 
+<h2>Regras</h2>
+<p> O Usuário precisa adivinhar um número dentro da faixa de número determinada com o minímo possível de tentativas.</p>
+
 <h2>Tecnologias</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="50" height="50" />
